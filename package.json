@@ -1,7 +1,7 @@
 {
   "name": "prime",
   "version": "1.0.0",
-  "description": "\"checks if a number is prime or not\"",
+  "description": "Checks if a number is prime or not",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/AnirudhaPatil-1/prime-check-package.git"
   },
-  "author": "Anirudha Patil",
+  "author": "anirudha_patil",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AnirudhaPatil-1/prime-check-package/issues"
