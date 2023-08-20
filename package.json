@@ -1,5 +1,5 @@
 {
-  "name": "prime",
+  "name": "prime-number-check",
   "version": "1.0.0",
   "description": "Checks if a number is prime or not",
   "main": "index.js",
